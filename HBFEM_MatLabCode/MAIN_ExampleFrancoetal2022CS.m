@@ -8,14 +8,13 @@
 %                       ( Ki, Kg, K, lm, H, Ec, I, A, \Lambda etc..)
 %*Matrices.mat          Elementary stiffness and mass matrices Ke qnd Me of
 %                       the HBFEM model
-%*CleanStart.m          Cleans the workspace and all variables
 %*amatrix.m             Assembly procedure function
 %*Newmark_Linear        Function: Direct solution by Newmark procedure
 %*EVN_dyn_Japan2_12000_EV1.csv Detailed model results used here for
 %                       comparison purposes
 %*IBRH161708020202.R2.sac.asc  Ground motion accelerogram in cm/s^2
 
-CleanStart
+clc, clear, close all
 %% INPUT DATA AND EXTERNAL DATA FROM MF_LocalScale.m and KM_MatrixSolver.m
 
 load('mainvar.mat') %Contents Ki, Kg, K, lm, \Lambda and other values obtained analytically.
