@@ -1,4 +1,5 @@
 # HBFEMmodel
+The HBFEM model is a 1D enriched model discretized in finite elements with 3 degrees of freedom at each node. The construction of this numerical formulation is well detailed in (Franco et al., 2022)
 Through a representative example in the framework of linear elasticity, it is shown that this homogenized beam finite element (HBFEM) solution
 recovers the analytical results and is close to the finite element solution of the detailed structural model. This new formulation simplifies the implementation of the beam-like model in complex configurations, enables parametric studies, and could be easily used for a wide range of applications in the field of dynamics of solids and structures, other than free vibration analysis, at reduced computational costs.
 
