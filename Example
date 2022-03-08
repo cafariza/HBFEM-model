@@ -1,0 +1,5 @@
+# Example: Steel structure treated in (Franco et al., 2022)
+
+The ten-story four-bay planar frame shown in Fig. 10 is used. Two types of analysis are carried out: a free vibration analysis to estimate the modal
+dynamic properties of the structure and a transient analysis. Both are compared with the results of its detailed numerical model.
+
