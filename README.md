@@ -1,5 +1,5 @@
 # HBFEMmodel
-Here you will find the MatLab Code to built the HBFEM model of the steel structure given in (Franco et al., 2022). You will obtained:
+Here you will find the MatLab Code to built the HBFEM model of the steel structure given in (Franco et al., 2022). You will obtain
 - Dynamic properties (eigen frequencies and mode shapes)
 - Top roof displacement from a time history analysis using Newmark
 
