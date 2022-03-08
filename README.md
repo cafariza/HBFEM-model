@@ -3,6 +3,8 @@ Here you will find the MatLab Code to built the HBFEM model of the steel structu
 - Dynamic properties (eigen frequencies and mode shapes)
 - Top roof displacement from a time history analysis using Newmark
 
+![Modes_num_ana_fem_he](https://user-images.githubusercontent.com/30736872/157275778-f2a449c6-36db-465a-a161-74395c2b4741.svg)
+
 The HBFEM model is a 1D enriched model discretized in finite elements with 3 degrees of freedom at each node. The construction of this numerical formulation is well detailed in (Franco et al., 2022) 
 Through a representative example in the framework of linear elasticity, it is shown that this homogenized beam finite element (HBFEM) solution
 recovers the analytical results and is close to the finite element solution of the detailed structural model. This new formulation simplifies the implementation of the beam-like model in complex configurations, enables parametric studies, and could be easily used for a wide range of applications in the field of dynamics of solids and structures, other than free vibration analysis, at reduced computational costs.
@@ -14,3 +16,4 @@ The implementation of the beam models and the subsequent homogenized beam finite
 # References
 
 Franco, C., Chesnais, C., Semblat, J. F., Giry, C., & Desprez, C. (2022). Finite element formulation of a homogenized beam for reticulated structure dynamics. Computers and Structures, 261–262. https://doi.org/10.1016/j.compstruc.2021.106729
+
