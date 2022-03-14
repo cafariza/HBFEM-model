@@ -12,6 +12,18 @@ recovers the analytical results and is close to the finite element solution of t
 The implementation of the beam models and the subsequent homogenized beam finite element (HBFEM) model  correctly characterizes the transverse dynamics of real buildings if the structure fulfills specific requirements. Firstly, the analyzed structure must be vertically regular in mass, stiffness and strength to respect the periodicity condition required by the homogenization. Secondly, the building must be tall enough to respect the scale separation condition. Structures of at least five stories (ε ≤ 0.3) fulfill this condition. Finally, the dynamic characterization must be limited to the analysis of the vibration modes with a sufficiently long wavelength. For each vibration type, the maximum number of modes which can be modelled with this approach is approximately N/3, where N is the number of stories. This condition is typically valid in earthquake engineering studies where the lowest frequencies are of interest. In this framework, a lot of the existing reinforced concrete (RC) and steel buildings seem to easily fulfill the stated conditions. 
 
 
+# How to use the MatLab code
+
+Step 1: 
+  Verify you have a MatLab version 2015a or later with the Symbolic Toolbox installed.
+  
+Step 2:
+  Download all the available files in ## Folder
+  
+Step 3:
+  Run MAIN.m 
+
+
 
 # References
 
