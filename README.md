@@ -18,7 +18,7 @@ Step 1:
   Verify you have a MatLab version 2015a or later with the Symbolic Toolbox installed.
   
 Step 2:
-  Download all the available files in ## Folder
+  Download all the available files in the folder: "HBFEM_MatLabCode"
   
 Step 3:
   Run MAIN.m 
