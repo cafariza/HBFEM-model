@@ -21,8 +21,10 @@ Step 2:
   Download all the available files in the folder: "HBFEM_MatLabCode"
   
 Step 3:
-  Run MAIN.m 
+  Place all the donwloaded files in the same folder 
 
+Step 4: 
+  Run MAIN_ExampleFrancoetal2022CS.m
 
 
 # References
