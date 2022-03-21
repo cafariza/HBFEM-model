@@ -12,6 +12,7 @@
 %*Newmark_Linear        Function: Direct solution by Newmark procedure
 %*EVN_dyn_Japan2_12000_EV1.csv Detailed model results used here for
 %                       comparison purposes
+%*m_elemu and k_elemu  functions within amatrix
 %*IBRH161708020202.R2.sac.asc  Ground motion accelerogram in cm/s^2
 
 clc, clear, close all
