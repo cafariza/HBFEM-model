@@ -31,3 +31,22 @@ Step 4:
 
 Franco, C., Chesnais, C., Semblat, J. F., Giry, C., & Desprez, C. (2022). Finite element formulation of a homogenized beam for reticulated structure dynamics. Computers and Structures, 261–262. https://doi.org/10.1016/j.compstruc.2021.106729
 
+# Authors 
+
+This work is part of the Ph.D. project entitled: “Multiscale modeling of the seismic response of buildings: Coupling between Homogenization and Multifiber element methods” developed at University Gustave Eiffel, France in the framework of the research initiative 3-COP2017.
+
+Franco Carolina -  Univ Gustave Eiffel, GERS-SRO and MAST-EMGCU, F-77447 Marne-la-Vallée, France
+francoariza@edu.univ-eiffel.fr, carolina.franco@geodynamique.com
+
+Chesnais Céline - Univ Gustave Eiffel, GERS-SRO, F-77454 Marne - la- Vallée, France,
+celine.chesnais@univ-eiffel.fr
+
+Semblat Jean-François - IMSIA (UMR9219), CNRS, EDF, CEA, ENSTA Paris, Institut Polytechnique de
+Paris, 91120 Palaiseau, France, jean-francois.semblat@ensta-paris.fr
+
+Desprez Cédric - Univ. Lyon, INSA-Lyon, GEOMAS, F-69621, Villeurbanne, France,
+cedric.desprez@insa-lyon.fr
+
+Giry Cédric - Université Paris-Saclay, ENS Paris-Saclay, CentraleSupélec, CNRS, LMPS - Laboratoire de
+Mécanique Paris-Saclay, 91190, Gif-sur-Yvette, France, cedric.giry@ens-paris-saclay.fr
+
