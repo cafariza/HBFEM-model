@@ -1,4 +1,4 @@
-# HBFEMmodel
+# HBFEMmodel_ElementaryMatrices
 Here you will find the MatLab Code to built the HBFEM model of the steel structure given in (Franco et al., 2022). You will obtain
 - Dynamic properties (eigen frequencies and mode shapes)
 - Top roof displacement from a time history analysis using Newmark
@@ -33,7 +33,6 @@ Franco, C., Chesnais, C., Semblat, J. F., Giry, C., & Desprez, C. (2022). Finite
 
 # Authors 
 
-This work is part of the Ph.D. project entitled: “Multiscale modeling of the seismic response of buildings: Coupling between Homogenization and Multifiber element methods” developed at University Gustave Eiffel, France in the framework of the research initiative 3-COP2017.
 
 Franco Carolina -  Univ Gustave Eiffel, GERS-SRO and MAST-EMGCU, F-77447 Marne-la-Vallée, France
 francoariza@edu.univ-eiffel.fr, carolina.franco@geodynamique.com
@@ -49,4 +48,16 @@ cedric.desprez@insa-lyon.fr
 
 Giry Cédric - Université Paris-Saclay, ENS Paris-Saclay, CentraleSupélec, CNRS, LMPS - Laboratoire de
 Mécanique Paris-Saclay, 91190, Gif-sur-Yvette, France, cedric.giry@ens-paris-saclay.fr
+
+This work is part of the Ph.D. project entitled: “Multiscale modeling of the seismic response of buildings: Coupling between Homogenization and Multifiber element methods” developed at University Gustave Eiffel, France in the framework of the research initiative 3-COP2017.
+
+# Licence
+
+SPDX-License-Identifier:  EUPL-1.2
+
+# Versions
+
+Creation date: July 2020
+Last modified: April 2022
+
 
